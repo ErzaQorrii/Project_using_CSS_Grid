@@ -134,7 +134,10 @@ line-height: normal;
 {
     margin-bottom: 18px;
 } */
-
+.center_img
+{
+    margin-top: 61px;
+}
 .center_img img
 {
     width: 1110px;
